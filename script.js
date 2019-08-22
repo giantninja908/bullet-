@@ -34,7 +34,7 @@ function bullet(x,y){
 }
 let bullets = [];
 let prev = plr;
-readLevel("levels/1/layout.txt")
+readLevel("levels/1/layout.json")
 
 //level.layout.
 
